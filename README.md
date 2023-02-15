@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Umairhassan. Student of software Engineering.
+- 👋 Hi, I’m Umair hassan. Student of software Engineering.
 - 👀 I’m interested in learning new skills and technologies
 - 🌱 Currently working in MERN and java technologies.  
 <!---
